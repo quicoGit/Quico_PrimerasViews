@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PrimerasViews</string>
+    <string name="toggleButton">ToggleButton</string>
+    <string name="checkBox">Guardar automáticamente</string>
 </resources>
